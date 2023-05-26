@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Full_Stack.Services</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Full-Stack.DataAccess\Full-Stack.DataAccess.csproj" />
+    <ProjectReference Include="..\Full-Stack.Model\Full-Stack.Model.csproj" />
+    <ProjectReference Include="..\Full-Stack.Repository\Full-Stack.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

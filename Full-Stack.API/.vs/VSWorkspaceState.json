@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Full-Stack.API\\bin",
+    "\\Full-Stack.App",
+    "\\Full-Stack.App\\.angular",
+    "\\Full-Stack.App\\src",
+    "\\Full-Stack.App\\src\\app",
+    "\\Full-Stack.App\\src\\app\\Sevrice",
+    "\\Full-Stack.App\\src\\assets",
+    "\\Full-Stack.Services",
+    "\\Full-Stack.Services\\Implementations"
+  ],
+  "SelectedNode": "\\Full-Stack.App\\src\\app\\Sevrice\\MenuSevriec.compontent.ts",
+  "PreviewInSolutionExplorer": false
+}
